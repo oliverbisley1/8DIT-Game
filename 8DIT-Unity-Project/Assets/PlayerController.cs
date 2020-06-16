@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
 
     private bool isFacingRight = true;
     private bool isWalking;
+    [SerializeField]
     private bool isGrounded;
     private bool isTouchingWall;
     private bool isWallSliding;
@@ -117,7 +118,7 @@ public class PlayerController : MonoBehaviour
         }
 
         if (rb.velocity.x > 0.01f || rb.velocity.x < -0.01f)
-            {
+        {
             isWalking = true;
         }
         else
@@ -186,7 +187,7 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(forceToAdd, ForceMode2D.Impulse);
         }
     }
-  
+
     private void ApplyMovement()
     {
         if (isGrounded)
@@ -234,12 +235,4 @@ public class PlayerController : MonoBehaviour
         Gizmos.DrawLine(wallCheck.position, new Vector3(wallCheck.position.x + wallCheckDistance, wallCheck.position.y, wallCheck.position.z));
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.tag == "Spikes")
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
-
-    }
 }
