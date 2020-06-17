@@ -17,7 +17,7 @@ TagManager:
   - Background
   - Foreground
   - Ground
-  - 
+  - Spikes
   - 
   - 
   - 
@@ -50,4 +50,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1529678441
+    locked: 0
+  - name: Spikes
+    uniqueID: 2184359913
     locked: 0

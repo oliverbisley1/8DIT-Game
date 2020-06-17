@@ -235,4 +235,20 @@ public class PlayerController : MonoBehaviour
         Gizmos.DrawLine(wallCheck.position, new Vector3(wallCheck.position.x + wallCheckDistance, wallCheck.position.y, wallCheck.position.z));
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Spikes")
+            {
+                PlayerDeath();
+            }
+    }
+
+    private void PlayerDeath()
+    {
+        Scene scene;
+        scene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(scene.name);
+    }
+
+
 }
