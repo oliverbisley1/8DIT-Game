@@ -1,0 +1,1649 @@
+fileFormatVersion: 2
+guid: e6ee1ca22a2724896853c1f2eda05093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -992313512444988567
+    second: Death Animation_0
+  - first:
+      213: -5785946161128661073
+    second: Death Animation_1
+  - first:
+      213: 5015669164006252379
+    second: Death Animation_2
+  - first:
+      213: -3696105815228797770
+    second: Death Animation_3
+  - first:
+      213: 9156158439694954898
+    second: Death Animation_4
+  - first:
+      213: -4298927123893996674
+    second: Death Animation_5
+  - first:
+      213: 3491694288011122382
+    second: Death Animation_6
+  - first:
+      213: 5975115593863948845
+    second: Death Animation_7
+  - first:
+      213: -110752062386295093
+    second: Death Animation_8
+  - first:
+      213: -4255437659221641131
+    second: Death Animation_9
+  - first:
+      213: -6889203216583517661
+    second: Death Animation_10
+  - first:
+      213: -4984664555564841563
+    second: Death Animation_11
+  - first:
+      213: 4954724314156276629
+    second: Death Animation_12
+  - first:
+      213: 2508652513934790152
+    second: Death Animation_13
+  - first:
+      213: -8206885238950614395
+    second: Death Animation_14
+  - first:
+      213: -8382329236082703538
+    second: Death Animation_15
+  - first:
+      213: 1946104607142654465
+    second: Death Animation_16
+  - first:
+      213: -6032448335507202978
+    second: Death Animation_17
+  - first:
+      213: -4832568541456171236
+    second: Death Animation_18
+  - first:
+      213: 744490521925868531
+    second: Death Animation_19
+  - first:
+      213: -5098493821080904095
+    second: Death Animation_20
+  - first:
+      213: -3479839647911553217
+    second: Death Animation_21
+  - first:
+      213: -9077526948943276108
+    second: Death Animation_22
+  - first:
+      213: 6296210608403812435
+    second: Death Animation_23
+  - first:
+      213: -1108088977875463864
+    second: Death Animation_24
+  - first:
+      213: -3330570750893734848
+    second: Death Animation_25
+  - first:
+      213: 2764186235201231097
+    second: Death Animation_26
+  - first:
+      213: 9163336275219321015
+    second: Death Animation_27
+  - first:
+      213: 5270893793360156316
+    second: Death Animation_28
+  - first:
+      213: -8543641399461243125
+    second: Death Animation_29
+  - first:
+      213: -624245465022423697
+    second: Death Animation_30
+  - first:
+      213: -2681907885206623057
+    second: Death Animation_31
+  - first:
+      213: -8070890817503569941
+    second: Death Animation_32
+  - first:
+      213: -3638508982052624763
+    second: Death Animation_33
+  - first:
+      213: -167440871920287397
+    second: Death Animation_34
+  - first:
+      213: 7624853707033143143
+    second: Death Animation_35
+  - first:
+      213: 3400532163935448173
+    second: Death Animation_36
+  - first:
+      213: 6743043457077252856
+    second: Death Animation_37
+  - first:
+      213: 889829261289685413
+    second: Death Animation_38
+  - first:
+      213: -1691368239140013184
+    second: Death Animation_39
+  - first:
+      213: -8358823007188549843
+    second: Death Animation_40
+  - first:
+      213: -5680838193868523176
+    second: Death Animation_41
+  - first:
+      213: 4967675788233921473
+    second: Death Animation_42
+  - first:
+      213: -8700588955477425218
+    second: Death Animation_43
+  - first:
+      213: 8172202359704296360
+    second: Death Animation_44
+  - first:
+      213: -2390360124973812261
+    second: Death Animation_45
+  - first:
+      213: 1805264398208652948
+    second: Death Animation_46
+  - first:
+      213: 4768637316181167491
+    second: Death Animation_47
+  - first:
+      213: 2378832689455071286
+    second: Death Animation_48
+  - first:
+      213: 6503123714956076416
+    second: Death Animation_49
+  - first:
+      213: 5977807307482214112
+    second: Death Animation_50
+  - first:
+      213: -1765361130585524363
+    second: Death Animation_51
+  - first:
+      213: -5770004798126262285
+    second: Death Animation_52
+  - first:
+      213: -166525997911569545
+    second: Death Animation_53
+  - first:
+      213: 7347770535886878936
+    second: Death Animation_54
+  - first:
+      213: -736381764147251144
+    second: Death Animation_55
+  - first:
+      213: 3438581383000158168
+    second: Death Animation_56
+  - first:
+      213: -6166063501784802872
+    second: Death Animation_57
+  - first:
+      213: -8800555860681807987
+    second: Death Animation_58
+  - first:
+      213: -3796324429518501685
+    second: Death Animation_59
+  - first:
+      213: -6897408066162879563
+    second: Death Animation_60
+  - first:
+      213: 6701064488824773378
+    second: Death Animation_61
+  - first:
+      213: 7774284464075246577
+    second: Death Animation_62
+  - first:
+      213: -1169702521668003639
+    second: Death Animation_63
+  - first:
+      213: 6202044406371839214
+    second: Death Animation_64
+  - first:
+      213: 9010991964782106906
+    second: Death Animation_65
+  - first:
+      213: 9065286754447080993
+    second: Death Animation_66
+  - first:
+      213: -58034480549083396
+    second: Death Animation_67
+  - first:
+      213: -2019888789721976104
+    second: Death Animation_68
+  - first:
+      213: 657221583035880409
+    second: Death Animation_69
+  - first:
+      213: -4051304007387531123
+    second: Death Animation_70
+  - first:
+      213: -373005255536095270
+    second: Death Animation_71
+  - first:
+      213: 8946876399597031886
+    second: Death Animation_72
+  - first:
+      213: -367926348161024484
+    second: Death Animation_73
+  - first:
+      213: -8547031705517148707
+    second: Death Animation_74
+  - first:
+      213: -1180985564986422896
+    second: Death Animation_75
+  - first:
+      213: -3026080092967686280
+    second: Death Animation_76
+  - first:
+      213: 1881552505062311699
+    second: Death Animation_77
+  - first:
+      213: 5285540579609544095
+    second: Death Animation_78
+  - first:
+      213: 2068754648446242242
+    second: Death Animation_79
+  - first:
+      213: 8663137090797454187
+    second: Death Animation_80
+  - first:
+      213: -7271476622584069925
+    second: Death Animation_81
+  - first:
+      213: -214899777120343697
+    second: Death Animation_82
+  - first:
+      213: -4112678410070651443
+    second: Death Animation_83
+  - first:
+      213: 3877672725884721801
+    second: Death Animation_84
+  - first:
+      213: -1536873977719129578
+    second: Death Animation_85
+  - first:
+      213: -7436633077420599798
+    second: Death Animation_86
+  - first:
+      213: -8248375648395711399
+    second: Death Animation_87
+  - first:
+      213: -2896183403023896829
+    second: Death Animation_88
+  - first:
+      213: -691007782220967811
+    second: Death Animation_89
+  - first:
+      213: 810676068109876712
+    second: Death Animation_90
+  - first:
+      213: -2944644136145305167
+    second: Death Animation_91
+  - first:
+      213: -9119122239456068969
+    second: Death Animation_92
+  - first:
+      213: -5207019543828344041
+    second: Death Animation_93
+  - first:
+      213: -7608701928270289667
+    second: Death Animation_94
+  - first:
+      213: 4081011249859644787
+    second: Death Animation_95
+  - first:
+      213: -5650840612785030821
+    second: Death Animation_96
+  - first:
+      213: -3940179463799920045
+    second: Death Animation_97
+  - first:
+      213: -4096047660303712807
+    second: Death Animation_98
+  - first:
+      213: 5691101397465916703
+    second: Death Animation_99
+  - first:
+      213: -1211101753658390839
+    second: Death Animation_100
+  - first:
+      213: 2550558026077357908
+    second: Death Animation_101
+  - first:
+      213: 772954210772564966
+    second: Death Animation_102
+  - first:
+      213: 2716250448757142276
+    second: Death Animation_103
+  - first:
+      213: -6466852530267775976
+    second: Death Animation_104
+  - first:
+      213: -805272494396768082
+    second: Death Animation_105
+  - first:
+      213: -6271792045640385119
+    second: Death Animation_106
+  - first:
+      213: -7286516720295716493
+    second: Death Animation_107
+  - first:
+      213: 8802954650603656080
+    second: Death Animation_108
+  - first:
+      213: -1878827586931920381
+    second: Death Animation_109
+  - first:
+      213: -6309210030742398470
+    second: Death Animation_110
+  - first:
+      213: 6887184196743803889
+    second: Death Animation_111
+  - first:
+      213: 4857451366521977895
+    second: Death Animation_112
+  - first:
+      213: 5797675524719047229
+    second: Death Animation_113
+  - first:
+      213: -1415140851984034831
+    second: Death Animation_114
+  - first:
+      213: -4043658619353788206
+    second: Death Animation_115
+  - first:
+      213: -3357404360393019704
+    second: Death Animation_116
+  - first:
+      213: 5264712488376166082
+    second: Death Animation_117
+  - first:
+      213: 6113233946321711779
+    second: Death Animation_118
+  - first:
+      213: 752560271021697020
+    second: Death Animation_119
+  - first:
+      213: 4146607237926642873
+    second: Death Animation_120
+  - first:
+      213: -6690453324730687931
+    second: Death Animation_121
+  - first:
+      213: 8203654477925911135
+    second: Death Animation_122
+  - first:
+      213: 6023542278872736877
+    second: Death Animation_123
+  - first:
+      213: 3289837643580980820
+    second: Death Animation_124
+  - first:
+      213: -6771237547259993434
+    second: Death Animation_125
+  - first:
+      213: 5402510397659919942
+    second: Death Animation_126
+  - first:
+      213: 6458698646678293918
+    second: Death Animation_127
+  - first:
+      213: -7727722722071657937
+    second: Death Animation_128
+  - first:
+      213: -6949043936479856977
+    second: Death Animation_129
+  - first:
+      213: 7783641484076021352
+    second: Death Animation_130
+  - first:
+      213: 8533481908169412172
+    second: Death Animation_131
+  - first:
+      213: -5771611994463379238
+    second: Death Animation_132
+  - first:
+      213: 3114063841875392278
+    second: Death Animation_133
+  - first:
+      213: 3729107214206249802
+    second: Death Animation_134
+  - first:
+      213: 2743244065275717880
+    second: Death Animation_135
+  - first:
+      213: -831053774487678680
+    second: Death Animation_136
+  - first:
+      213: 7259658492022220791
+    second: Death Animation_137
+  - first:
+      213: 3493495759891686577
+    second: Death Animation_138
+  - first:
+      213: -8143475182934728736
+    second: Death Animation_139
+  - first:
+      213: -5399224586572143656
+    second: Death Animation_140
+  - first:
+      213: 5047373083129142474
+    second: Death Animation_141
+  - first:
+      213: 5481055625960243640
+    second: Death Animation_142
+  - first:
+      213: 1165040834837341813
+    second: Death Animation_143
+  - first:
+      213: 6486201859481201426
+    second: Death Animation_144
+  - first:
+      213: -1926670255953413963
+    second: Death Animation_145
+  - first:
+      213: -2536760158256818100
+    second: Death Animation_146
+  - first:
+      213: -8810137690118078826
+    second: Death Animation_147
+  - first:
+      213: -8307968890838725947
+    second: Death Animation_148
+  - first:
+      213: 3424030654713703002
+    second: Death Animation_149
+  - first:
+      213: -7479566484490174910
+    second: Death Animation_150
+  - first:
+      213: -5946452981372278187
+    second: Death Animation_151
+  - first:
+      213: 3867187908859794984
+    second: Death Animation_152
+  - first:
+      213: -5282464496276125517
+    second: Death Animation_153
+  - first:
+      213: 2290906588142266287
+    second: Death Animation_154
+  - first:
+      213: 9103630722807189144
+    second: Death Animation_155
+  - first:
+      213: -9028557451481583625
+    second: Death Animation_156
+  - first:
+      213: 2971230794645878222
+    second: Death Animation_157
+  - first:
+      213: -2646609311576111639
+    second: Death Animation_158
+  - first:
+      213: -338604423024896653
+    second: Death Animation_159
+  - first:
+      213: -4148196578001148685
+    second: Death Animation_160
+  - first:
+      213: 431001753420109229
+    second: Death Animation_161
+  - first:
+      213: -4062022753674537874
+    second: Death Animation_162
+  - first:
+      213: -3790392549403979806
+    second: Death Animation_163
+  - first:
+      213: 408544785378394527
+    second: Death Animation_164
+  - first:
+      213: -4411794228938085843
+    second: Death Animation_165
+  - first:
+      213: 5171929404055492628
+    second: Death Animation_166
+  - first:
+      213: -5148922923068567583
+    second: Death Animation_167
+  - first:
+      213: -2233394209060164318
+    second: Death Animation_168
+  - first:
+      213: 6078716672969135455
+    second: Death Animation_169
+  - first:
+      213: 6709517603192285178
+    second: Death Animation_170
+  - first:
+      213: -1837808192519475211
+    second: Death Animation_171
+  - first:
+      213: -5782519369543848350
+    second: Death Animation_172
+  - first:
+      213: -8849464762179475905
+    second: Death Animation_173
+  - first:
+      213: -893990072588895320
+    second: Death Animation_174
+  - first:
+      213: -8561956365168881225
+    second: Death Animation_175
+  - first:
+      213: 1276922263312840107
+    second: Death Animation_176
+  - first:
+      213: -2892713248024482921
+    second: Death Animation_177
+  - first:
+      213: 5360730926295630676
+    second: Death Animation_178
+  - first:
+      213: -3381156347308370734
+    second: Death Animation_179
+  - first:
+      213: 968535303468992830
+    second: Death Animation_180
+  - first:
+      213: 3762141056985380453
+    second: Death Animation_181
+  - first:
+      213: -7406158056641454392
+    second: Death Animation_182
+  - first:
+      213: 324389341151297504
+    second: Death Animation_183
+  - first:
+      213: -1174592851528688572
+    second: Death Animation_184
+  - first:
+      213: 2891069102194854458
+    second: Death Animation_185
+  - first:
+      213: 3792483190994246567
+    second: Death Animation_186
+  - first:
+      213: -5126159909851666714
+    second: Death Animation_187
+  - first:
+      213: -3111623426827351638
+    second: Death Animation_188
+  - first:
+      213: -2492953682026255146
+    second: Death Animation_189
+  - first:
+      213: -7005738961356191567
+    second: Death Animation_190
+  - first:
+      213: -9100498534470622327
+    second: Death Animation_191
+  - first:
+      213: 4999091933606679748
+    second: Death Animation_192
+  - first:
+      213: 4327902969998283867
+    second: Death Animation_193
+  - first:
+      213: -8695259271614717634
+    second: Death Animation_194
+  - first:
+      213: -5724043178931833797
+    second: Death Animation_195
+  - first:
+      213: 9004040870203758734
+    second: Death Animation_196
+  - first:
+      213: -2347797587275168430
+    second: Death Animation_197
+  - first:
+      213: -1006808251829123862
+    second: Death Animation_198
+  - first:
+      213: 3042143501658606296
+    second: Death Animation_199
+  - first:
+      213: -658106391460180329
+    second: Death Animation_200
+  - first:
+      213: 1917908405488133089
+    second: Death Animation_201
+  - first:
+      213: 911184802783018703
+    second: Death Animation_202
+  - first:
+      213: -500930552453143137
+    second: Death Animation_203
+  - first:
+      213: 8432622766623991149
+    second: Death Animation_204
+  - first:
+      213: -2963947204625575500
+    second: Death Animation_205
+  - first:
+      213: -3984098753588131024
+    second: Death Animation_206
+  - first:
+      213: 2354852265285407325
+    second: Death Animation_207
+  - first:
+      213: 8547999397449931668
+    second: Death Animation_208
+  - first:
+      213: -2629790633268151645
+    second: Death Animation_209
+  - first:
+      213: 3229491381145413504
+    second: Death Animation_210
+  - first:
+      213: -8611315629109499299
+    second: Death Animation_211
+  - first:
+      213: -3814005358864179506
+    second: Death Animation_212
+  - first:
+      213: 7491850235839222234
+    second: Death Animation_213
+  - first:
+      213: 950272888795851503
+    second: Death Animation_214
+  - first:
+      213: -1749825894121840683
+    second: Death Animation_215
+  - first:
+      213: 4074157956901112893
+    second: Death Animation_216
+  - first:
+      213: 797709078691651696
+    second: Death Animation_217
+  - first:
+      213: -7453033299679251937
+    second: Death Animation_218
+  - first:
+      213: -3400888085005698390
+    second: Death Animation_219
+  - first:
+      213: -2608365083424762622
+    second: Death Animation_220
+  - first:
+      213: -49252135295778408
+    second: Death Animation_221
+  - first:
+      213: -966698410101544868
+    second: Death Animation_222
+  - first:
+      213: 6563076238336880195
+    second: Death Animation_223
+  - first:
+      213: -6969288646535618719
+    second: Death Animation_224
+  - first:
+      213: -2036962082826728257
+    second: Death Animation_225
+  - first:
+      213: -2623842444208453542
+    second: Death Animation_226
+  - first:
+      213: -5431527254702515673
+    second: Death Animation_227
+  - first:
+      213: 2840725844549613532
+    second: Death Animation_228
+  - first:
+      213: 7664168778606417649
+    second: Death Animation_229
+  - first:
+      213: -538274948703093200
+    second: Death Animation_230
+  - first:
+      213: -8265786575194873620
+    second: Death Animation_231
+  - first:
+      213: -4623991589005224704
+    second: Death Animation_232
+  - first:
+      213: 5520320403258145598
+    second: Death Animation_233
+  - first:
+      213: 914595711362127905
+    second: Death Animation_234
+  - first:
+      213: 3234905669826781443
+    second: Death Animation_235
+  - first:
+      213: -1118166951365899748
+    second: Death Animation_236
+  - first:
+      213: -5206965558998786538
+    second: Death Animation_237
+  - first:
+      213: -2834132904537671346
+    second: Death Animation_238
+  - first:
+      213: -3386495060251118990
+    second: Death Animation_239
+  - first:
+      213: -6718180604565785233
+    second: Death Animation_240
+  - first:
+      213: 1930884250074561261
+    second: Death Animation_241
+  - first:
+      213: 4821828071115485886
+    second: Death Animation_242
+  - first:
+      213: -8343776618156531005
+    second: Death Animation_243
+  - first:
+      213: 7597423130061015429
+    second: Death Animation_244
+  - first:
+      213: -6676191320686077462
+    second: Death Animation_245
+  - first:
+      213: -3677218803722169517
+    second: Death Animation_246
+  - first:
+      213: 5908234208987790713
+    second: Death Animation_247
+  - first:
+      213: 1484642534789243373
+    second: Death Animation_248
+  - first:
+      213: 1702504277600337144
+    second: Death Animation_249
+  - first:
+      213: 3289955321802543271
+    second: Death Animation_250
+  - first:
+      213: -806690232310824102
+    second: Death Animation_251
+  - first:
+      213: -1589263441634526149
+    second: Death Animation_252
+  - first:
+      213: 7811289158293569151
+    second: Death Animation_253
+  - first:
+      213: 6317407893190362393
+    second: Death Animation_254
+  - first:
+      213: 694492314486423810
+    second: Death Animation_255
+  - first:
+      213: 4797918542121483204
+    second: Death Animation_256
+  - first:
+      213: 731975516488433463
+    second: Death Animation_257
+  - first:
+      213: -7955182507637391209
+    second: Death Animation_258
+  - first:
+      213: -5743146541631503396
+    second: Death Animation_259
+  - first:
+      213: -8772479143970848302
+    second: Death Animation_260
+  - first:
+      213: -35958273018409177
+    second: Death Animation_261
+  - first:
+      213: 8436194534615045580
+    second: Death Animation_262
+  - first:
+      213: 3961239436022932204
+    second: Death Animation_263
+  - first:
+      213: 2877799588624938445
+    second: Death Animation_264
+  - first:
+      213: -3375894697139489503
+    second: Death Animation_265
+  - first:
+      213: 7199995756518883550
+    second: Death Animation_266
+  - first:
+      213: -6238297666335934455
+    second: Death Animation_267
+  - first:
+      213: -1435068462210663626
+    second: Death Animation_268
+  - first:
+      213: -4582706703441695088
+    second: Death Animation_269
+  - first:
+      213: 7486490002070030145
+    second: Death Animation_270
+  - first:
+      213: -7005550133795652499
+    second: Death Animation_271
+  - first:
+      213: 6869746407657294553
+    second: Death Animation_272
+  - first:
+      213: 8662273306225150753
+    second: Death Animation_273
+  - first:
+      213: 4204853857496412807
+    second: Death Animation_274
+  - first:
+      213: -7615182663076305385
+    second: Death Animation_275
+  - first:
+      213: 646901216141704402
+    second: Death Animation_276
+  - first:
+      213: 137647030923088353
+    second: Death Animation_277
+  - first:
+      213: 8094900740306442178
+    second: Death Animation_278
+  - first:
+      213: -862301788493246180
+    second: Death Animation_279
+  - first:
+      213: 6795363004001367377
+    second: Death Animation_280
+  - first:
+      213: -8058701155241752575
+    second: Death Animation_281
+  - first:
+      213: 443496794175769490
+    second: Death Animation_282
+  - first:
+      213: -1206698591046297402
+    second: Death Animation_283
+  - first:
+      213: 8696417171438203339
+    second: Death Animation_284
+  - first:
+      213: 3390562909641392164
+    second: Death Animation_285
+  - first:
+      213: -6748596203166552991
+    second: Death Animation_286
+  - first:
+      213: -5975036692384790617
+    second: Death Animation_287
+  - first:
+      213: -563672980539961782
+    second: Death Animation_288
+  - first:
+      213: 9002713121279533124
+    second: Death Animation_289
+  - first:
+      213: -6919283417886470031
+    second: Death Animation_290
+  - first:
+      213: -8392333517718488001
+    second: Death Animation_291
+  - first:
+      213: 240751832747961987
+    second: Death Animation_292
+  - first:
+      213: -6051012171160057994
+    second: Death Animation_293
+  - first:
+      213: 7767205584149247378
+    second: Death Animation_294
+  - first:
+      213: -3797217126964058549
+    second: Death Animation_295
+  - first:
+      213: 2359539823311537436
+    second: Death Animation_296
+  - first:
+      213: 6763619737085196699
+    second: Death Animation_297
+  - first:
+      213: 8000920564115057678
+    second: Death Animation_298
+  - first:
+      213: 8080829482066576198
+    second: Death Animation_299
+  - first:
+      213: 3108226635478010674
+    second: Death Animation_300
+  - first:
+      213: 381357542899305936
+    second: Death Animation_301
+  - first:
+      213: -5856710539047973643
+    second: Death Animation_302
+  - first:
+      213: 2746501712873941740
+    second: Death Animation_303
+  - first:
+      213: 7591618311114261115
+    second: Death Animation_304
+  - first:
+      213: 2736627652439995216
+    second: Death Animation_305
+  - first:
+      213: -5351172330054769968
+    second: Death Animation_306
+  - first:
+      213: -4387586590545383163
+    second: Death Animation_307
+  - first:
+      213: -5517586298752129667
+    second: Death Animation_308
+  - first:
+      213: -7085380705569055028
+    second: Death Animation_309
+  - first:
+      213: -722965754133295457
+    second: Death Animation_310
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death Animation_0
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 6
+        width: 268
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96375e03e189a32f0800000000000000
+      internalID: -992313512444988567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_1
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 239
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf14682f9034bfa0800000000000000
+      internalID: -5785946161128661073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_2
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 0
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f197fc78c3b9540800000000000000
+      internalID: 5015669164006252379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_3
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 260
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2807085bc4bcc0800000000000000
+      internalID: -3696105815228797770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_4
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 0
+        width: 308
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917639e695311f70800000000000000
+      internalID: 9156158439694954898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_5
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 289
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b109be842754c0800000000000000
+      internalID: -4298927123893996674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 161
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d925847df47030800000000000000
+      internalID: 3491694288011122382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 162
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6820a9ffdbe250800000000000000
+      internalID: 5975115593863948845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 18
+        width: 142
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea2570697867ef0800000000000000
+      internalID: -110752062386295093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 18
+        width: 142
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5583646cef5a1f4c0800000000000000
+      internalID: -4255437659221641131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 18
+        width: 144
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9f02dc22a460a0800000000000000
+      internalID: -6889203216583517661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 222
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5c3112ff9e2dab0800000000000000
+      internalID: -4984664555564841563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_12
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 209
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b96413387b2c440800000000000000
+      internalID: 4954724314156276629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 98
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e49f58b2680d220800000000000000
+      internalID: 2508652513934790152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 98
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa3fb6b594b1e80800000000000000
+      internalID: -8206885238950614395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 129
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434be4a8fbfbab80800000000000000
+      internalID: -8382329236082703538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_16
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 129
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023d7c44d3f10b10800000000000000
+      internalID: 1946104607142654465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_17
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 149
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c523c3330784ca0800000000000000
+      internalID: -6032448335507202978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_18
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 149
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ff6cdf3844fecb0800000000000000
+      internalID: -4832568541456171236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_19
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 168
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb590a6f26f45a00800000000000000
+      internalID: 744490521925868531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed2f8f1e28e39b0800000000000000
+      internalID: -5098493821080904095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_21
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 0
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3759e6f64025bfc0800000000000000
+      internalID: -3479839647911553217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_22
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 0
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b75331b555260280800000000000000
+      internalID: -9077526948943276108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_23
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 0
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35094f88032a06750800000000000000
+      internalID: 6296210608403812435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_24
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841153e02f64f90f0800000000000000
+      internalID: -1108088977875463864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_25
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444ca55c8f67c1d0800000000000000
+      internalID: -3330570750893734848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_26
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f891325cbc5c5620800000000000000
+      internalID: 2764186235201231097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death Animation_27
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b016e9fac5ba2f70800000000000000
+      internalID: 9163336275219321015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

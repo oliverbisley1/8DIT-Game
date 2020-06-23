@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
     private bool isTouchingWall;
     private bool isWallSliding;
     private bool canJump;
+    private bool isDead;
 
     private Rigidbody2D rb;
     private Animator anim;
@@ -133,6 +134,8 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("isGrounded", isGrounded);
         anim.SetFloat("yVelocity", rb.velocity.y);
         anim.SetBool("isWallSliding", isWallSliding);
+        anim.SetBool("isDead", isDead);
+
     }
 
     private void CheckInput()
@@ -241,13 +244,17 @@ public class PlayerController : MonoBehaviour
             {
                 PlayerDeath();
             }
+        if(other.tag == "Enemy")
+            {
+                PlayerDeath();
+            }
     }
+
+
 
     private void PlayerDeath()
     {
-        Scene scene;
-        scene = SceneManager.GetActiveScene();
-        SceneManager.LoadScene(scene.name);
+        isDead = true;
     }
 
 
