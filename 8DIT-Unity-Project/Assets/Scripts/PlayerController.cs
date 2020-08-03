@@ -35,6 +35,7 @@ public class PlayerController : MonoBehaviour
     public float variableJumpHeightMultiplier = 0.5f;
     public float wallHopForce;
     public float wallJumpForce;
+    private int scenes = 0;
 
     public Vector2 wallHopDirection = new Vector2(2, 0.5f);
     public Vector2 wallJumpDirection = new Vector2(1, 2f);
@@ -242,19 +243,34 @@ public class PlayerController : MonoBehaviour
     {
         if (other.tag == "Spikes")
             {
-                PlayerDeath();
+                StartCoroutine(DeathCoroutine());
             }
         if(other.tag == "Enemy")
             {
-                PlayerDeath();
+                StartCoroutine(DeathCoroutine());
             }
+        if (other.tag == "Flag")
+        {
+            SceneManager.LoadScene(1 + scenes);
+            scenes = scenes + 1;
+            
+
+        }
     }
 
+  
 
 
-    private void PlayerDeath()
+
+    IEnumerator DeathCoroutine()
     {
+        rb.gravityScale = 0;
         isDead = true;
+        yield return new WaitForSeconds(0.2f);
+        Scene scene;
+        scene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(scene.name);
+        
     }
 
 
