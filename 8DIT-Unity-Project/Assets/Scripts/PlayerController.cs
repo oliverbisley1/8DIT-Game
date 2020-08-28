@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    public int deathCount = 0;
 
     private float movementInputDirection;
 
@@ -251,10 +252,7 @@ public class PlayerController : MonoBehaviour
             }
         if (other.tag == "Flag")
         {
-            SceneManager.LoadScene(1 + scenes);
-            scenes = scenes + 1;
-            
-
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 
@@ -264,9 +262,10 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator DeathCoroutine()
     {
+        deathCount = deathCount + 1;
         rb.gravityScale = 0;
         isDead = true;
-        yield return new WaitForSeconds(0.2f);
+        yield return new WaitForSeconds(0f);
         Scene scene;
         scene = SceneManager.GetActiveScene();
         SceneManager.LoadScene(scene.name);
